@@ -2,9 +2,9 @@
 
 This is a simple Rundeck streaming Log Writer plugin that will send all log
 output to a Graylog server by writing
-[https://docs.graylog.org/en/latest/pages/gelf.html](GELF) to a TCP port. Based
+[GELF](https://docs.graylog.org/en/latest/pages/gelf.html) to a TCP port. Based
 on the Rundeck-supported
-[https://github.com/rundeck-plugins/rundeck-logstash-plugin](Logstash plugin).
+[Logstash plugin](https://github.com/rundeck-plugins/rundeck-logstash-plugin).
 
 # Installation
 
